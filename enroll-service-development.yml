@@ -1,11 +1,9 @@
 waf:
   unAuthenticated: /,/index.jsp,/hotfix/**,/schedule/**
   enableAppIdFilter: false
-
 gaea:
   auth:
     redirectDisabled: true
-
 spring:
   data:
     mongodb:
@@ -16,7 +14,6 @@ spring:
     username: cloud                                                 `
     password: cloud
     virtual-host: elearning_dev
-	
 redis:
   host: 192.168.230.53
   port: 6379
