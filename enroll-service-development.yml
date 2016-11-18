@@ -11,7 +11,7 @@ spring:
   rabbitmq:
     listener: auto-startup:true
     addresses: 192.168.9.78:5672
-    username: cloud                                                 `
+    username: cloud
     password: cloud
     virtual-host: elearning_dev
 redis:
