@@ -1,0 +1,7 @@
+waf:
+  unAuthenticated: /,/index.jsp,/hotfix/**,/schedule/**
+  enableAppIdFilter: false
+
+gaea:
+  auth:
+    redirectDisabled: true
