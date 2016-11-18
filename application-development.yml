@@ -79,13 +79,8 @@ cs:
     url: http://sdpcs.beta.web.sdp.101.com/v0.1/static
   s3:
     isAws: false
-	
 cssdk:
   cs:
     host: sdpcs.beta.web.sdp.101.com
   s3:
     isAws: false 
-
-
-
-
